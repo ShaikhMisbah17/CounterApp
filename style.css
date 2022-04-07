@@ -31,6 +31,21 @@ h1{
 column-gap: 20px;
 }
 
+#sub{
+  border-radius: 15%;
+  border: none;
+}
+
+#reset{
+  border-radius: 15%;
+  border: none;
+}
+
+#add{
+  border-radius: 15%;
+  border: none;
+}
+
 #count{
   display: flex;
   align-items: center;
